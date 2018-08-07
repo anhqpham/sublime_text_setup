@@ -1,0 +1,12 @@
+[
+  {"keys": ["ctrl+i"], "command": "reindent"},
+  {"keys": ["alt+p"], "command": "copy_path"},
+  {"keys": ["alt+t"], "command": "copy_file_path_and_line_number"},
+  {"keys": ["ctrl+,"], "command": "reveal_in_side_bar"},
+  {
+    "keys": [
+        "alt+super+down"
+    ],
+    "command": "goto_definition",
+  },
+]
