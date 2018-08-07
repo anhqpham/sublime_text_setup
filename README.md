@@ -4,7 +4,7 @@ My custom setup in SublimeText
 ### Setup:
  * Copy all `*.py` files to `~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User`
 
- * Open `Sublime Text` > `Preferences` > `Key Bindings`. Add key bindings that you want to use.
+ * Open `Sublime Text` > `Preferences` > `Key Bindings`. Add key bindings that you want to use from `Default (OSX).sublime-keymap` file
 
 ### Usage:
   * `add_frozen_string_comment` automatically adds `# frozen_string_literal: true` comment on top of Ruby file if there isn't one
